@@ -1,7 +1,7 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-#baseurl:
+baseurl: https://litjhr.github.io/newtest1/
 #url: https://litjhr
 date_format: "ordinal"
 title: My Test Web 1
